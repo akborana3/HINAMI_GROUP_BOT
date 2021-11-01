@@ -63,7 +63,7 @@ from Villain.modules.helper_funcs.misc import paginate_modules
 from Villain.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-Hello there, I'm [Villian](https://telegra.ph/file/99fc866f43f009dbfa745.jpg)
+Hello there, I'm HINAMI(https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)
 
 I am an 𝐴𝑛𝑖𝑚𝑒 Themed Group Managing Bot and I will help in managing your group
 
@@ -79,14 +79,14 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="💫 Add Villain to your group 💫", url="t.me/Villain_Robot?startgroup=true"
+            text="💫 Add hinami to your group 💫", url="t.me/MISSHINAMI_ROBOT?startgroup=true"
         ),
     ],
 ]
 
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/99fc866f43f009dbfa745.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
