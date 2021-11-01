@@ -8,7 +8,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Akborana )
 
-<h1 align="center">⚡ 🅥🅘🅛🅛🅐🅘🅝 ⚡</h1>
+<h1 align="center">⚡ 𝙃𝙄𝙉𝘼𝙈𝙄 ⚡</h1>
 
 <h4 align="center">Legendary AF Villain</h4>
 
@@ -33,16 +33,16 @@ Enjoy Your Bot!!💝
 
 <details>
 <summary> special thanks </summary>
-<b>AKAY (@Akborana1) Owner</b>
+<b>DARKLEGEND (@DARKLEGEND088) Owner</b>
 <b>BIG BULL (@Sanskari_balak_Ak) Developer</b>
-<b>Team AKAY (@akborana) Promoter</b>
-<b>Ayush (@Akborana1) Supporter</b>
-<h1>#Villain</h1>
+<b>HINAMI SUPPORT (@HINAMI_SUPPORT_CHAT) Promoter</b>
+<b>DARKLEGEND (@DARKLEGEND088) Supporter</b>
+<h1>#HINAMI</h1>
 </details>
 
 
 
 ## Support
-   <a href="https://t.me/Akborana"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
-   <a href="https://t.me/Akborana"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/HINAMI_SUPPORT_CHAT"><img src="https://img.shields.io/badge/Channel%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/HINAMI_SUPPORT_CHAT"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
