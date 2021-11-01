@@ -14,16 +14,16 @@
 
 <h5>This is a group management bot made for telegram. I made this userbot with help of all other bots available in telegram. All credits goes to its Respective Owners.</h5>
 
-This is the one and only officialVillainBot Group Management Bot made by #TeamAKAY.
+This is the one and only officialHinamiBot Group Management Bot made by #TeamLEGEND.
 
 Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![Hinami logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/akborana)
+[![Hinami logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/HINAMI_SUPPORT_CHAT)
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fakborana%2FVILLAIN_GROUP_BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fakborana%2FMISSHINAMI_ROBOT)
 
 
 # Support
