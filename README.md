@@ -2,7 +2,7 @@
 
 <h3>😈The Most Powerfull Group Management Bot </h3>
 
-[![𝕍𝕀𝕃𝕃𝔸𝕀ℕ 𝕃𝕆𝔾𝕆](https://telegra.ph/file/c6001b578779094a544d2.jpg)](t.me/Villain_Robot)
+[![𝕍𝕀𝕃𝕃𝔸𝕀ℕ 𝕃𝕆𝔾𝕆](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](t.me/MISSHINAMI_ROBOT)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
@@ -20,7 +20,7 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![Villain logo](https://telegra.ph/file/e4778088f85fcf83860fb.jpg)](https://t.me/akborana)
+[![Villain logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/akborana)
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fakborana%2FVILLAIN_GROUP_BOT)
