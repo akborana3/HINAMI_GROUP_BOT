@@ -10,7 +10,7 @@
 
 <h1 align="center">⚡ 𝙃𝙄𝙉𝘼𝙈𝙄 ⚡</h1>
 
-<h4 align="center">Legendary AF Villain</h4>
+<h4 align="center">CUTE HINAMI</h4>
 
 <h5>This is a group management bot made for telegram. I made this userbot with help of all other bots available in telegram. All credits goes to its Respective Owners.</h5>
 
@@ -20,15 +20,15 @@ Don't forget to star this repo if you liked it.
 
 Enjoy Your Bot!!💝
 
-[![Villain logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/akborana)
+[![Hinami logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/akborana)
 
 ## Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fakborana%2FVILLAIN_GROUP_BOT)
 
 
 # Support
-<a href="https://t.me/Akborana"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Akborana"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HINAMI_SUPPORT_CHAT"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HINAMI_SUPPORT_CHAT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 <details>
