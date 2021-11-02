@@ -6,7 +6,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/Akborana )
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/HINAMI_SUPPORT_CHAT )
 
 <h1 align="center">❤ 𝙃𝙄𝙉𝘼𝙈𝙄 ❤</h1>
 
