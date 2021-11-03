@@ -360,8 +360,8 @@ def Villain_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by AKAY TEAM .* "
-            f"\n\n 🔥 Join [AKAY TEAM](https://t.me/AKBORANA) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi again!  The name's {dispatcher.bot.first_name} 😍 \n\nAs  You I'm a next generational group management bot developed by TEAM LEGEND.* "
+            f"\n\n 🔥 Join [AKAY TEAM](https://t.me/HINAMISUPPORTCHAT) To Keep Yourself Updated About {dispatcher.bot.first_name} 🔥"
             f"\n\n I have the normal GROUP MANAGING functions like flood control, a warning system etc but I mainly have the advanced and handy Antispam system and the SIBYL banning system which safegaurds and helps your group from spammers."
             f"\n\nI Can Manage Your Groups Smoothly, With Some Special Features [:)](https://telegra.ph/file/473cc17913393959e0667.jpg)"
             f"\n\n👇 You Can Know More About Me By Clicking The Below Buttons 👇",
@@ -419,7 +419,7 @@ def Villain_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*{dispatcher.bot.first_name} Is the redisigned version of Daisy and Naruto for the best performance.*"
-            f"\n\nBased on [RAVAN](https://github.com/TEAMDAISYXDEVS) + [Villain](https://t.me/Akborana)."
+            f"\n\nBased on [DAISY](https://github.com/TEAMDAISYXDEVS) + [HINAMI](https://t.me/HINAMISUPPORTCHAT)."
             f"\n\n{dispatcher.bot.first_name}'s source code was written by ScamRand and DEVELOPER"
             f"\n\nIf Any Question About {dispatcher.bot.first_name}, \nLet Us Know At @{SUPPORT_CHAT}.",
             parse_mode=ParseMode.MARKDOWN,
@@ -477,12 +477,12 @@ def Villain_about_callback(update, context):
             text=f"<b> ｢ Terms and Conditions 」</b>\n"
             f"\n<i>To Use This Bot, You Need To Read Terms and Conditions Carefully.</i>\n"
             f"\n✪ We always respect your privacy \n  We never log into bot's api and spying on you \n  We use a encripted database \n  Bot will automatically stops if someone logged in with api."
-            f"\n✪ Always try to keep credits, so \n  This hardwork is done by @AKBORANA team AKAY spending many sleepless nights.. So, Respect it."
-            f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to only DEVIL and Akay team\n  Also for <b>Paul Larson for Marie</b>."
+            f"\n✪ Always try to keep credits, so \n  This hardwork is done by @HINAMISUPPORTCHAT team LEGEND spending many sleepless nights.. So, Respect it."
+            f"\n✪ Some modules in this bot is owned by different authors, So, \n  All credits goes to only AKAY TEAM and TEAM LEGEND\n  Also for <b>Paul Larson for Marie</b>."
             f"\n✪ If you need to ask anything about \n  this bot, Go @{SUPPORT_CHAT}."
             f"\n✪ If you asking nonsense in Support \n  Chat, you will get warned/banned."
             f"\n✪ All api's we used owned by originnal authors \n  Some api's we use Free version \n  Please don't overuse AI Chat."
-            f"\n✪ We don't Provide any support to forks,\n  So these terms and conditions not applied to forks \n  If you are using a fork of Villain bot we are not resposible for anything."
+            f"\n✪ We don't Provide any support to forks,\n  So these terms and conditions not applied to forks \n  If you are using a fork of HINAMI bot we are not resposible for anything."
             f"\n\nFor any kind of help, related to this bot, Join @{SUPPORT_CHAT}."
             f"\n\n<i>Terms & Conditions will be changed anytime</i>\n",
             parse_mode=ParseMode.HTML,
