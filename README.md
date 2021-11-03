@@ -34,9 +34,10 @@ Enjoy Your Bot!!💝
 <details>
 <summary> special thanks </summary>
 <b>DARKLEGEND (@DARKLEGEND088) Owner</b>
-<b>BIG BULL (@Sanskari_balak_Ak) Developer</b>
+<b>BIG BULL (@akborana) Developer</b>
 <b>HINAMI SUPPORT (@HINAMI_SUPPORT_CHAT) Promoter</b>
 <b>DARKLEGEND (@DARKLEGEND088) Supporter</b>
+<b>#IF YOU LIKE IT THEN PAY ME AND SUPPORT ME (t.me/akborana1)
 <h1>#HINAMI</h1>
 </details>
 
