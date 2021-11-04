@@ -2,7 +2,7 @@
 
 <h3>❤The Most Cute And Powerful Group Management Bot </h3>
 
-[![𝕍𝕀𝕃𝕃𝔸𝕀ℕ 𝕃𝕆𝔾𝕆](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](t.me/MISSHINAMI_ROBOT)
+[![HINAMI LOGO](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](t.me/MISSHINAMI_ROBOT)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/TEAMDAISYXDEVS/DaisyX)
