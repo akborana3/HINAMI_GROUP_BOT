@@ -23,7 +23,7 @@ Enjoy Your Bot!!💝
 [![Hinami logo](https://telegra.ph/file/3d90f7ff3cae0b4e7f325.jpg)](https://t.me/HINAMI_SUPPORT_CHAT)
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSAIBYADAS3%2FHINAMI_GROUP_BOT)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSAIBYADAS%2FHINAMI_GROUP_BOT)
 
 
 # Support
