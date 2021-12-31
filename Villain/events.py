@@ -1,6 +1,6 @@
 from telethon import events
 
-from Hinami import telethn
+from Villain import telethn
 
 
 def register(**args):
